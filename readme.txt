@@ -1,2 +1,3 @@
 リモートを作成してpushしてみました
 READMEを修正してみました
+Bitbucketも要チェック
